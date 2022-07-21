@@ -1,5 +1,8 @@
 ### olá, seja bem vindo ao meu reposistorio 👋
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/antonio-anselmo/)
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/antonio-anselmo)
+[![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linuxanselmo/linuxanselmo)
+[![blog](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)]()
+
 
 <!--
 **linuxanselmo/linuxanselmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
