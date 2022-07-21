@@ -1,4 +1,5 @@
 ### olá, seja bem vindo ao meu reposistorio 👋
+[![blog](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://www.linkedin.com/in/antonio-anselmo/)
 
 <!--
 **linuxanselmo/linuxanselmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
